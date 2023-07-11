@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rexFastApiApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_925E85FD15A943F292F6FB530F594F32 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F19F72E671AD4C4C9F6A00ECA0C4E44A }}
